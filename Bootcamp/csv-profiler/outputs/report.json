@@ -1,0 +1,83 @@
+{
+  "source": null,
+  "summary": {
+    "rows": 5,
+    "columns": 4
+  },
+  "columns": {
+    "name": {
+      "type": "text",
+      "stats": {
+        "count": 5,
+        "missing": 1,
+        "unique": 4,
+        "top": [
+          [
+            "Ahmed",
+            1
+          ],
+          [
+            "Sara",
+            1
+          ],
+          [
+            "Omar",
+            1
+          ],
+          [
+            "Fatima",
+            1
+          ]
+        ]
+      }
+    },
+    "age": {
+      "type": "number",
+      "stats": {
+        "count": 4,
+        "missing": 1,
+        "unique": 4,
+        "min": 25.0,
+        "max": 32.0,
+        "mean": 28.5
+      }
+    },
+    "city": {
+      "type": "text",
+      "stats": {
+        "count": 5,
+        "missing": 1,
+        "unique": 4,
+        "top": [
+          [
+            "Riyadh",
+            1
+          ],
+          [
+            "Jeddah",
+            1
+          ],
+          [
+            "Mecca",
+            1
+          ],
+          [
+            "Dammam",
+            1
+          ]
+        ]
+      }
+    },
+    "salary": {
+      "type": "number",
+      "stats": {
+        "count": 4,
+        "missing": 1,
+        "unique": 4,
+        "min": 5000.0,
+        "max": 7000.0,
+        "mean": 5875.0
+      }
+    }
+  }
+}
